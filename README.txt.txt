@@ -12,3 +12,7 @@ PENTIMG : PATH chromedriver disesuaikan dengan pada device laptop / pc sendiri
 
 documentasi lengkap appium
 https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/web/chromedriver.md
+
+
+HOW to inspect element
+https://developer.chrome.com/docs/devtools/remote-debugging/
