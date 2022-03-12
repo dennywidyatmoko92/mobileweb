@@ -16,3 +16,6 @@ https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/web/
 
 HOW to inspect element
 https://developer.chrome.com/docs/devtools/remote-debugging/
+
+chromedriver version list
+https://raw.githubusercontent.com/appium/appium-chromedriver/master/config/mapping.json
