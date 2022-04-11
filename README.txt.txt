@@ -10,6 +10,9 @@ cara menjalankan chromedriver web
 appium --chromedriver-executable C:\Users\dennypc\node_modules\appium\node_modules\appium-chromedriver\chromedriver\win\chromedriver_win32_v96.0.4664.45.exe
 99.0.4844.58
 
+
+C:\WINDOWS\system32\node_modules\appium\node_modules\appium-chromedriver\chromedriver\win\chromedriver_win32_v99.0.4844.51
+
 appium --chromedriver-executable C:\mobilechromedriver\node_modules\appium\node_modules\appium-chromedriver\chromedriver\win\chromedriver_win32_v99.0.4844.51.exe
 
 
